@@ -1,0 +1,57 @@
+.universitycardcontainer{
+    padding: 2rem 10%;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 27px;
+    row-gap: 1rem;
+    justify-content: center;
+}
+
+.universitycard{
+    padding: 1rem;
+    box-shadow: rgb(120, 120, 120) 0px 0px 2px;
+    width: fit-content;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+}
+
+.universitycard:hover{
+    box-shadow: rgb(120, 120, 120) 0px 0px 5px;
+
+}
+
+.universitynameheader{
+    font-size: 1rem;
+    font-weight: 700;
+    color: #183b56;
+}
+
+.Universityheader{
+    background-color: goldenrod;
+    padding: 1rem 3rem;
+    border: black 1px solid;
+    border-radius: 1rem;
+    box-shadow: rgb(17, 17, 8) 10px 10px 1rem;
+}
+
+.advisorbutton{
+    padding: 5px 1rem;
+    background-color:blue;
+    color: white;
+    font-size: 1rem;
+    border-radius: 5px;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+.advisorbutton:hover{
+    box-shadow: rgb(117, 117, 117) 0px 0px 5px;
+}
+
+.advisorcard{
+    padding: 2rem 1rem;
+}

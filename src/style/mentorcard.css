@@ -1,0 +1,11 @@
+.mentorimg{
+    width: 5rem;
+    border-radius: 2.5rem;
+}
+
+.mentorname{
+    font-size: 20px;
+    padding: 10px 0px;
+    color: #183b56;
+    font-weight: 700;
+}
